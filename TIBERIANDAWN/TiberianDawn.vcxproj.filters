@@ -630,6 +630,9 @@
     <ClInclude Include="DLLInterfaceVersion.h">
       <Filter>Source Files</Filter>
     </ClInclude>
+    <ClInclude Include="COORDA.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
     <ClInclude Include="ModState.h">
       <Filter>Source Files</Filter>
     </ClInclude>
@@ -1214,8 +1217,10 @@
     <ClCompile Include="TURRET.CPP">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="DLLInterfaceEditor.cpp" />
     <ClCompile Include="RULES.CPP">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DLLInterfaceEditor.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="ModState.cpp">
