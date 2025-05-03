@@ -3,6 +3,9 @@
 *.user
 
 # Output object and binary folders
+[Oo]bj/
 [Dd]ebug/
 [Rr]elease/
 [Bb]in/
+[Rr]elease-Beta/
+[Rr]elease-Release/
